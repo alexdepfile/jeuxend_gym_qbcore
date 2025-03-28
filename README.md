@@ -39,6 +39,7 @@ ALTER TABLE players ADD COLUMN gym INT DEFAULT 0;
 ⚙️ Configuration
 
 Le fichier config.lua te permet d'ajuster les lieux et paramètres du script.
+
 📌 Exemple de configuration
 
 Config.Locations = {
@@ -49,6 +50,7 @@ Config.Locations = {
     },
 }
 
+### 📌 Configuration des exercices
 🔹 **coords** → Position de l'exercice  
 🔹 **heading** → Direction du joueur  
 🔹 **animation** → Animation jouée  
@@ -58,11 +60,11 @@ Config.Locations = {
 🔹 **viewDistance** → Distance d'affichage du texte  
 
 
-📜 Permissions & Dépendances
+🔧 Technologies utilisées
+🔹 **Framework** : QBCore  
+🔹 **Base de données** : oxmysql  
+🔹 **Skillbar** : qb-skillbar  
 
-🔹 Framework : QBCore
-🔹 Base de données : oxmysql
-🔹 Skillbar : qb-skillbar
 🎮 Utilisation
 
 1️⃣ Dirige-toi vers un emplacement d'exercice 🏋️
