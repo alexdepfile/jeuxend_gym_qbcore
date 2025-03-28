@@ -49,13 +49,15 @@ Config.Locations = {
     },
 }
 
-🔹 coords → Position de l'exercice
-🔹 heading → Direction du joueur
-🔹 animation → Animation jouée
-🔹 skill → Type de compétence affectée (force ou résistance)
-🔹 SkillAddQuantity → Points gagnés à chaque exercice
-🔹 Text3D → Texte affiché en jeu
-🔹 viewDistance → Distance d'affichage du texte
+🔹 **coords** → Position de l'exercice  
+🔹 **heading** → Direction du joueur  
+🔹 **animation** → Animation jouée  
+🔹 **skill** → Type de compétence affectée (`force` ou `résistance`)  
+🔹 **SkillAddQuantity** → Points gagnés à chaque exercice  
+🔹 **Text3D** → Texte affiché en jeu  
+🔹 **viewDistance** → Distance d'affichage du texte  
+
+
 📜 Permissions & Dépendances
 
 🔹 Framework : QBCore
