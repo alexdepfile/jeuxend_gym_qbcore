@@ -79,8 +79,9 @@ Config.Locations = {
 
 ❓ Support
 
-📢 Discord :  
+📢 Discord :  https://discord.com/invite/yGveQjhA7T
 🛠️ Issues : Ouvre un ticket sur GitHub si tu rencontres un problème
+Site internet : www.jeuxend.com
 
 
 
